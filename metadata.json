@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse: Online Fitness Coaching Platform & Java Architecture Prototype",
+  "description": "Comprehensive online fitness coaching platform featuring workout plans, progress tracking, coach interaction, and administrative management with complete Java OOP, JDBC, Multithreading, and Servlet architecture integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
